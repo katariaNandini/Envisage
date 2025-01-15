@@ -1,0 +1,19 @@
+{
+  "name": "navigo",
+  "version": "1.0.0",
+  "description": "This Hybrid Accessibility Tool is an innovative application designed to enhance accessibility for individuals with disabilities. It leverages a combination of speech-to-text (STT), text-to-speech (TTS), gesture recognition, and browser automation to allow users to interact with digital content through multiple input methods. The app is designed to be cross-platform and will be packaged as a standalone desktop application using Electron.js.",
+  "main": "main.js",
+  "scripts": {
+   "start": "cd frontend/react-app && npm start",
+    "electron": "electron .",
+    "dev": "concurrently \"npm run start\" \"npm run electron\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^9.1.2",
+    "electron": "^34.0.0"
+    
+  }
+}
