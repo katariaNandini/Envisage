@@ -4,7 +4,7 @@ import sys
 from vosk import Model, KaldiRecognizer
 
 # Path to the Vosk model
-MODEL_PATH = r"C:\Users\Nandini\Downloads\vosk-model-small-en-us-0.15"
+MODEL_PATH = r"vosk-model-small-en-us-0.15"
 
 # Load the Vosk model
 print("Loading Vosk model...")
