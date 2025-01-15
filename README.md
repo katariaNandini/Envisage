@@ -1,5 +1,5 @@
 # Envisage'25
-# Hybrid Accessibility Tool
+# Hybrid Accessibility Tool-Navigo
 
 ## Overview
 The Hybrid Accessibility Tool is an innovative application designed to enhance accessibility for individuals with disabilities. It leverages a combination of speech-to-text (STT), text-to-speech (TTS), gesture recognition, and browser automation to allow users to interact with digital content through multiple input methods. The app is designed to be cross-platform and will be packaged as a standalone desktop application using Electron.js.
