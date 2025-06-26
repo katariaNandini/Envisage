@@ -2,11 +2,7 @@
 
 **Navigo** is a browser extension designed to make web browsing accessible for individuals with disabilities by providing **voice navigation** and **gesture-based controls**. It aims to bridge the accessibility gap, offering seamless interaction with websites for people with visual, motor, and cognitive impairments.
 
-## Group Name
-- **Tech Titans**
-  - **Pragunie Aditya**
-  - **Nandini Kataria**
-  - **Rishika**
+
 
 ## What is Navigo?
 
